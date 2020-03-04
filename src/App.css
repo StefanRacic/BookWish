@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+a:hover {
+  text-decoration: none;
+}
+.navbar-link:hover {
+  text-decoration: none;
+}
+.brand-img {
+  width: 40px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bg-main-color {
+  background-color: linear-gradient(to right, #0062e6, #33aeff);
+}
+/* Navbar */
+.nav-main {
+  border-bottom: 0.1px white solid;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Home */
+.home {
+  height: 100vh;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/* AboutUs */
+.about-us {
+  height: 85vh;
+  background-color: white;
+  background-image: url('https://blog.alexdevero.com/wp-content/uploads/2016/10/Your-Ultimate-Guide-to-Master-Material-Design-small.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.about-us p {
+  font-size: 25px;
+  font-weight: 400;
+}
+/* Footer */
+footer {
+  height: 15vh;
+  color: white;
+}
+footer a {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.sidebar {
+  max-width: 200px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Book */
+.book-box {
+  width: 200px;
+  margin-top: 1rem;
 }

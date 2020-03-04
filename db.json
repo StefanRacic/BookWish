@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$sDfL9/IiXcjiBUcuaSzepOl7L14bRobOxS9P9H3R4QW9mCU39jfai",
+      "id": 1
+    },
+    {
+      "email": "stefracic@gmail.com",
+      "password": "$2a$10$Ogo4D9Afuvk2icsAByC8puKOTo5wRCw/TJtIa0gMUk1pSz4OCQgV.",
+      "id": 2
+    },
+    {
+      "email": "sam@gmail.com",
+      "password": "$2a$10$hl4BhVFnirlIGvbqePLE8uL42XA4B2smvsgIwOUzZFTyz.gKIhcKi",
+      "id": 3
+    },
+    {
+      "email": "stefracic@icloud.com",
+      "password": "$2a$10$ZjNId.CQ./z6Dr48yJGUnefseHg6WWB/9ABct3S7NrMzxsrDL918q",
+      "id": 4
+    },
+    {
+      "email": "tttt@gmail.com",
+      "password": "$2a$10$GdiXqykLlECsdaUV4U.9Ye0dR2bZk4GJp8aeIs.vJthgJ.BqQHZ.2",
+      "id": 5
+    }
+  ],
+  "books": [
+    {
+      "name": "Rich Dad poor Dad",
+      "owned": true,
+      "stars": 2,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 5
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 6
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 7
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 8
+    },
+    {
+      "name": "Book #3",
+      "owned": true,
+      "stars": 3,
+      "userId": "2",
+      "id": 9
+    },
+    {
+      "name": "Book #4",
+      "owned": true,
+      "stars": 3,
+      "userId": "4",
+      "id": 3
+    },
+    {
+      "name": "Book #5",
+      "owned": true,
+      "stars": 1,
+      "userId": "2",
+      "id": 3
+    }
+  ]
+}
